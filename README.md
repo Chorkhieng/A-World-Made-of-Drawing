@@ -12,6 +12,8 @@ Use this link to play the simulation: https://chorkhieng.github.io/A-World-Made-
 
 Use GUI on the top right corner of the page to interact with the simulation.
 
+## Drawing Strokes
+
 | Stroke Made by Mouse                     | 3D Modeling Operation                            |
 | ---------------------------------------- | ------------------------------------------------ |
 | Starts in the sky                        | Add a new stroke to the sky                      |
@@ -19,3 +21,10 @@ Use GUI on the top right corner of the page to interact with the simulation.
 | Starts on the ground and ends in the sky | Create a new billboard                           |
 | Starts on an existing billboard          | Add the stroke to the existing billboard         |
 
+## Moving Camera Position  
+- Use `a` key to move to the left
+- Use `d` key to move to the right
+- Use `s` key to move backward
+- Use `w` key to move forward
+- Right-click and hold to rotate around
+ 
