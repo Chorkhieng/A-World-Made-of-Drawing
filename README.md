@@ -1,6 +1,4 @@
-# A-World-Made-of-Drawing
-
-Assignment 6 from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.  
+# A-World-Made-of-Drawing   
 The purpose of this assignment is about learning to use Ray Casting and Camera Projection in Computer Graphics.
 
 ## Recommendation
